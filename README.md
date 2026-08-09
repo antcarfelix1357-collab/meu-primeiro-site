@@ -6,7 +6,7 @@ exercício do professor
 <titles>início da base</titles>
 </Head>
 <body>
-  <h1>atividade pessoal
-    <H2>...
-    <p>me chamo Antônio Carlos e estou iniciando meu trajeto na base técnica</p>
+  <h1>...
+    <H2>atividade pessoal 
+    <p>me chamo Antônio Carlos e estou iniciando meu "trajeto" na base técnica</p>
 </body>
